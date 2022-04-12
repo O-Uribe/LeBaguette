@@ -1,4 +1,4 @@
-# LeBaguette
+# Videojuego de plataformas
  
 Objetivo General
 
